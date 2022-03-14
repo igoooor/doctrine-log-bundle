@@ -1,3 +1,5 @@
+Fork from https://github.com/manasbala/doctrine-log-bundle while waiting for Symfony 5 compatiblity (see open issue)
+
 # DoctrineLogBundle
 Symfony bundle to enable auto logging data changes. Works with doctrine entities only. This bundle will save developer's ass to determine how data has been changed :)
 
